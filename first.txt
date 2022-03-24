@@ -5,3 +5,5 @@ zheshi
 dev fenzhi
 print("你是个好人")
 hello
+
+print("nihao")
